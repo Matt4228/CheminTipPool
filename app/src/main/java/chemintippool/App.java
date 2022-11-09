@@ -56,7 +56,7 @@ import com.google.api.services.sheets.v4.model.ValueRange;
 
 public class App {
     private static Sheets sheetsService;
-    private static String APPLICATION_NAME = "Example app";
+    private static String APPLICATION_NAME = "Chemin Tip Pool Manager";
     private static String SPREADSHEET_ID = "1SsNd_VDjHxkLj3WsbxnHt6NAW1rqmkui_3xwAGp824A";
 
     private static Credential authorize() throws IOException, GeneralSecurityException {
